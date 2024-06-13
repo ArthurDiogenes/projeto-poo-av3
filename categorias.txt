@@ -1,0 +1,4 @@
+1,Simples,100.0
+2,Luxo,200.0
+3,Luxo Supremo,250.0
+1,Extra Simples,50.0

@@ -1,0 +1,2 @@
+1,1,Simples,100.0,Alugado
+2,2,Luxo,200.0,Livre
